@@ -12,9 +12,9 @@ cmdprefix = Config.COMMAND_HAND_LER
 plugin_category = "tools"
 
 hemojis = {
-    "admin": "👮‍♂️",
-    "bot": "🤖",
-    "fun": "🎨",
+    "Mhdfajis": "👮‍♂️",
+    "Tgbot": "🤖",
+    "funny": "🎨",
     "misc": "🧩",
     "tools": "🧰",
     "utils": "🗂",
